@@ -1,5 +1,4 @@
 startbootstrap-sb-admin-2-gh-pages
 node_modules
 package-lock.json
-/config/database.js
 /media/html
