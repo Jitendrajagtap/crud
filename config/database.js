@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 // const database_name = 'case_study';
 
 // mlab
-const server = 'mongodb+srv://case_study:case_study@cluster0-2zdaw.gcp.mongodb.net/case_study?retryWrites=true'
+const server = 'mongodb://127.0.0.1/case_study'
 const database_name = 'case_study';
 
 class Database {
